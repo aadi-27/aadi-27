@@ -12,11 +12,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/attrey_aadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="attrey_aadi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aadi-attrey-850137294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aadi-attrey-850137294" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/@aadiattrey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="@aadiattrey" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@aadiattrey7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@aadiattrey7" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/aadiatyxrk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aadiatyxrk" height="30" width="40" /></a>
+<a href="https://twitter.com/attrey_aadi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="attrey_aadi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aadi-attrey-850137294" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aadi-attrey-850137294" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/@aadiattrey" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="@aadiattrey" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@aadiattrey7" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@aadiattrey7" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/aadiatyxrk" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aadiatyxrk" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
